@@ -9,4 +9,7 @@ public class A {
         return "a";
     }
     int age;
+    public  String aaaa(){
+        return "kkkkkkkkkkk";
+    }
 }
