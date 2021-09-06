@@ -8,4 +8,7 @@ public class A {
     public String a(){
         return "a";
     }
+    public  String aaaa(){
+        return "kkkkkkkkkkk";
+    }
 }
