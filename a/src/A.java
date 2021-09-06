@@ -8,4 +8,5 @@ public class A {
     public String a(){
         return "a";
     }
+    int age;
 }
